@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "kobject.h": "c",
+        "sysfs.h": "c",
+        "stat.h": "c",
+        "gpio.h": "c",
+        "spmi.h": "c",
+        "spi.h": "c",
+        "st7735_user_library.h": "c",
+        "unistd.h": "c",
+        "hwmon.h": "c",
+        "utility": "c",
+        "xmemory": "c",
+        "xstring": "c",
+        "workqueue.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
